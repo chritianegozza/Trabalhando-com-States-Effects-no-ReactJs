@@ -5,6 +5,7 @@ Trabalhando com States & Effects no ReactJs
 
 
 Criado botão do ifoof para adicionar 
+<br>
 ![image](https://user-images.githubusercontent.com/72118415/171040149-3369528c-4b19-442e-b862-3347a3eb0820.png)
 
 Botão concluido e ainda adiciona o valor para cada compra
