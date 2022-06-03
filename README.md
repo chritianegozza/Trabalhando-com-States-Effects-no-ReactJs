@@ -1,4 +1,4 @@
-Trabalhando com States & Effects no ReactJs
+🚀 Trabalhando com States & Effects no ReactJs
 ************************************************************************************************
 
 ![image](https://user-images.githubusercontent.com/72118415/171041250-f2df0d97-552a-4b63-9785-a70509deaaef.png)
@@ -15,7 +15,7 @@ Botão concluido e ainda adiciona o valor para cada compra
 
 ![image](https://user-images.githubusercontent.com/72118415/171040239-c34fc396-8fb2-432d-83f4-928f0eb10511.png)
 *************************************************************************************************
-Projeto 
+🧩 Projeto 
 
 Esse projeto foi efetuado durante as aulas do bootcamp da dio Trabalhando com States & Effects no ReactJs, ministrada 
 pelo Felipe Aguiar, onde ensinou:
