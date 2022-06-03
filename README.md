@@ -32,13 +32,13 @@ pelo Felipe Aguiar, onde ensinou:
 ***********************************************************************************************
 Linguagem
 
-HTML
+✅ HTML
 
-CSS
+✅ CSS
 
-JAVASCRIPT
+✅ JAVASCRIPT
 
-React (Uma biblioteca JavaScript para construir interfaces de usuário.)
+✅ React (Uma biblioteca JavaScript para construir interfaces de usuário.)
 
 **********************************************************************************************
 Material de consulta para aprennder mais sobre e [Documentação](https://reactjs.org/docs/hooks-reference.html#usestate)
