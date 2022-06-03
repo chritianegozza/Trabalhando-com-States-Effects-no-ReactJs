@@ -30,7 +30,7 @@ pelo Felipe Aguiar, onde ensinou:
 - Conclusão do curso
 
 ***********************************************************************************************
-Linguagem
+👩🏻‍💻 Linguagem
 
 ✅ HTML
 
