@@ -41,6 +41,6 @@ pelo Felipe Aguiar, onde ensinou:
 ✅ React (Uma biblioteca JavaScript para construir interfaces de usuário.)
 
 **********************************************************************************************
-Material de consulta para aprennder mais sobre e [Documentação](https://reactjs.org/docs/hooks-reference.html#usestate)
+🌱 Material de consulta para aprennder mais sobre e [Documentação](https://reactjs.org/docs/hooks-reference.html#usestate)
 
 
